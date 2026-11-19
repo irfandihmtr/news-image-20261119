@@ -10,6 +10,8 @@ image alone; (4) faithful, no hype/speculation as fact; (5) craft, legible
 at ~300px across.
 
 Repo: https://github.com/irfandihmtr/news-image-20261119 (branch master).
+Commit: `bd4f9871e01cb676cd50dc5c0eb2d105f45a1507` (verified via
+`git ls-remote`, 19 Nov 2026 ~00:38 UTC).
 Entrypoint: `main.py` (stdlib-only copier). Image: `entry.png`, 1024x1024.
 
 ## 1. Headlines (all verified 19 Nov 2026, 00:26–00:36 UTC, >=2 sources each)
